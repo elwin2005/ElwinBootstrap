@@ -1,0 +1,34 @@
+#heading1{
+    color: brown;
+}
+.pgraph {
+    border: 2px solid black;
+    background-color: blue;
+    padding-left: 30px;
+    padding-right: 20px;
+    margin-left: 20;
+}
+.class1 {
+    color: blue;
+    border: 2px solid black;
+    padding: 30px;
+    margin: 20px;
+}
+.class2 {
+    color: blueviolet;
+    border: 2px solid rgb(9, 184, 62);
+    padding: 30px;
+    margin: 20px;
+}
+.class3 {
+    color: chocolate;
+    border: 2px solid rgb(132, 184, 9);
+    padding: 30px;
+    margin: 20px;
+}
+.class4 {
+    color: brown;
+    border: 2px solid rgb(184, 9, 155);
+    padding: 30px;
+    margin: 20px;
+}
